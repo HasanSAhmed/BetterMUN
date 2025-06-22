@@ -1,1 +1,9 @@
+How to Run BetterMUN
 
+1. Download main.py file
+2. Download conferences.txt file
+3. Open the program in VS Code, Python, Replit, or any other Code IDE
+4. Insert this into your command or terminal of your chosen IDE
+pip install ttkbootstrap OR py -m pip install ttkbootstrap
+This will initialize the python libraries.
+4. Once running the program is fully functional and ready to go
